@@ -4,6 +4,6 @@ This is after setting up Go locally more detailed information can be found in of
 https://golang.org/doc/tutorial/getting-started
 
 ## Helpful/Commonly used commands
-go run <program name>
-go help
+- go run <program name>
+- go help
 
